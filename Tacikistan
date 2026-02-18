@@ -1,0 +1,37 @@
+EXTM3U url-tvg="http://epg.one/epg.xml; http://gabbarit.drm-play.com/epg_lite.xml.gz; http://epg.cdntv.online/lite.xml; http://epg.it999.ru/epg.xml.gz; http://iptv-content.rv77.pw/guide-lite.xml"
+#EXTINF:-1 tvg-id="Badakhshon.tj" group-title="TJ",Badakhshon
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 tvg-id="DushanbeHD.tj" group-title="TJ",Dushanbe HD
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj" group-title="TJ",Futbol
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj" group-title="TJ",Ilm va Tabiat
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-id="Jahonnamo.tj" group-title="TJ",Jahonnamo
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 tvg-id="Khatlon.tj" group-title="TJ",Khatlon
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 tvg-id="TMT.tj" group-title="TJ",TMT
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 tvg-id="Tojikiston.tj" group-title="TJ",https://live.teleradiocom.tj/1/3m.m3u8
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:-1 tvg-id="TVBahoriston.tj" group-title="TJ",TV Bahoriston
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 tvg-id="TVKulob.tj" group-title="TJ",TV Kulob
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-id="TVSayohi.tj" group-title="TJ",TV Sayohi
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-id="TVSugd.tj" group-title="TJ",TV Sugd
+#EXTVLCOPT:http-user-agent=HTTP User-Agent
+https://live.teleradiocom.tj/14/3m.m3u8
